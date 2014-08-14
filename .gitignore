@@ -16,6 +16,8 @@ pip-log.txt
 
 # git repo that we parsing
 drupal/
+# a symlink to drupal core
+drupal
 pages/
 
 cores.db
